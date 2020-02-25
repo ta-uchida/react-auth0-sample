@@ -1,4 +1,5 @@
 {
   "domain": "vcc-test.auth0.com",
-  "clientId": "NRRWYh2bovmTccf7Fd9VdsdwwMgr1Y0W"
+  "clientId": "NRRWYh2bovmTccf7Fd9VdsdwwMgr1Y0W",
+  "audience": "http://localhost:3001"
 }
